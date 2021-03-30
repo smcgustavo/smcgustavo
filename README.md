@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smcgustavo
+- 👋 Hi, I’m @smcgustavo and new here ^^
 - 👀 I’m interested in data science, machine learning and power bi
 - 🌱 I’m currently learning data science 
 - 📫 How to reach me? send me an email!
