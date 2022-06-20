@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smcgustavo and new here ^^
 - 👀 I’m interested in data science, machine learning and power bi
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning Dart & Flutter!
 - 📫 How to reach me? send me an email!
 
 <!---
