@@ -1,5 +1,5 @@
 - 👀 I’m interested in data science, machine learning and Mobile Development
-- 🌱 I’m currently SRGAN's and Autoencoders
+- 🌱 I’m currently on SRGAN's and Autoencoders
 - 📫 How to reach me? send me an email!
 
 <!---
