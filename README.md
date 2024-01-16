@@ -1,4 +1,4 @@
-- 👀 I’m interested in data science, machine learning and Mobile Development
+- 👀 I’m interested in data science, machine learning and Web.
 - 🌱 I’m currently on SRGAN's and Autoencoders
 - 📫 How to reach me? send me an email!
 
