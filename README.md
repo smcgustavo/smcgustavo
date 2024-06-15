@@ -1,4 +1,4 @@
-- 👀 I’m interested in data science, machine learning and Web.
+- 👀 I’m interested in data science, machine learning and Web development.
 - 🌱 I’m currently on SR neural networks
 - 📫 How to reach me? send me an email!
 
