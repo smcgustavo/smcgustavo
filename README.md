@@ -1,5 +1,5 @@
 - 👀 I’m interested in data science, machine learning and Web development.
-- 🌱 I’m currently on SR neural networks
+- 🌱 I’m currently on cloud architecture
 - 📫 How to reach me? send me an email!
 
 <!---
